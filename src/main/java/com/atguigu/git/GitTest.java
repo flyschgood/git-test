@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master test!!!");
         System.out.println("hit-fix test!!!");
         System.out.println("resolve conflict");
+        System.out.println("push test");
     }
 }
